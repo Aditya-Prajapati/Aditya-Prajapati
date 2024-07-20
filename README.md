@@ -3,7 +3,7 @@
 💼 3 months of experience as a **Web Development Intern.**  
 🧑🏻‍💻 Proficient in **Data Structures & Algorithms.**  
 📄 [Resume](https://drive.google.com/file/d/18tCznXH2LjURCDCpiH02XFQlBzj0YUsy/view)   
-🗨️ *Get in touch*: [adityaprajapati28@gmail.com](mailto:adityaprajapati28@gmail.com)
+🗨️ Get in touch: [adityaprajapati28@gmail.com](mailto:adityaprajapati28@gmail.com)
 
 ## 🏆 Achievements
 - **1786** rated @ LeetCode
@@ -11,8 +11,8 @@
 - Solved **1000+** DSA problems.
  
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-prajapati-/) 
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAditya_Prajapati&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/Aditya_Prajapati/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-prajapati-/) 
 
 ## </> Tech stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
