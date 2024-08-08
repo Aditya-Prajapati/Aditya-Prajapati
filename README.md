@@ -6,8 +6,9 @@
 🗨️ Get in touch: [adityaprajapati28@gmail.com](mailto:adityaprajapati28@gmail.com)
 
 ## 🏆 Achievements
-- **1786** rated @ LeetCode
-- **3⭐** @ CodeChef
+- **1786** rated @ [LeetCode](https://leetcode.com/u/Aditya_Prajapati/)
+- Pupil @ [Codeforces](https://codeforces.com/profile/aditya_cf0)
+- **3⭐** @ [CodeChef](https://www.codechef.com/users/aditya_cc0)
 - Solved **1000+** DSA problems.
  
 ## 🌐 Socials
