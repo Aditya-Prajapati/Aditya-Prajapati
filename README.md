@@ -1,14 +1,14 @@
-## <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="20" height="20"/> Hi, I’m **[Aditya Prajapati](https://aditya-prajapati.vercel.app/)**  
+## <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="20" height="20"/> Hi, I’m **[Aditya Prajapati](https://aditya-prajapati.github.io/Portfolio/)**  
 🎓 **Software Engineering** undergrad at **Delhi Technological University.**   
 💼 3 months of experience as a **Web Development Intern.**  
 🧑🏻‍💻 Proficient in **Data Structures & Algorithms.**  
-📄 [Resume](https://drive.google.com/file/d/18tCznXH2LjURCDCpiH02XFQlBzj0YUsy/view)   
+📄 [Resume](https://drive.google.com/file/d/1DzbUSl0HNzVMgM-yIjZ8PPHwgyfAfigp/view?usp=drive_link)   
 🗨️ Get in touch: [adityaprajapati28@gmail.com](mailto:adityaprajapati28@gmail.com)
 
 ## 🏆 Achievements
 - **1786** rated @ [LeetCode](https://leetcode.com/u/Aditya_Prajapati/)
-- Pupil @ [Codeforces](https://codeforces.com/profile/aditya_cf0)
-- **3⭐** @ [CodeChef](https://www.codechef.com/users/aditya_cc0)
+- **1231** @ [Codeforces](https://codeforces.com/profile/aditya_cf0)
+- **1605** @ [CodeChef](https://www.codechef.com/users/aditya_cc0)
 - Solved **1000+** DSA problems.
  
 ## 🌐 Socials
